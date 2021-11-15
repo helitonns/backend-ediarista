@@ -50,6 +50,7 @@ INSTALLED_APPS = [
     'localflavor',
     'api',
     'rest_framework',
+    'rest_framework_simplejwt.token_blacklist',
 ]
 
 MIDDLEWARE = [
